@@ -36,4 +36,4 @@ console.log(triangleFiveArea < triangleSixArea);
 
 const caseThree =  `triangleFive area is ${triangleFiveArea} cm2,
 triangleSix area is ${triangleSixArea} cm2. The triangle with the biggest area is triangleSix.`
-console.log(caseTwo);
+console.log(caseThree);
